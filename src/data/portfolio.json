@@ -65,7 +65,7 @@
   ],
   "experience": [
     {
-      "period": "Internship",
+      "period": "Internship ",
       "company": "Neuralbits Technology Pvt Ltd",
       "role": "Python Developer Intern",
       "summary": "Worked on Python development tasks, supported feature implementation, and gained practical experience in writing clean, maintainable code within a team environment."
@@ -109,12 +109,12 @@
     "url": "#"
   },
   "socialLinks": {
-    "linkedin": "#",
+    "linkedin": "https://linkedin.com/in/shubham-khaire-dev/",
     "github": "https://github.com/shubhkhaire"
   },
   "education": [
     {
-      "title": "Recent Graduate",
+      "title": "Recent Post Graduate",
       "subtitle": "Built a foundation in software design, problem solving, and full stack development fundamentals."
     },
     {
