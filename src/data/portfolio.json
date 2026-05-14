@@ -1,0 +1,131 @@
+{
+  "hero": {
+    "name": "Shubham Khaire",
+    "tagline": "Python full stack Developer",
+    "title": "I build clean web applications and backend-focused solutions as a fresher developer.",
+    "summary": "I am a recent graduate with Python development internship experience at Neuralbits Technology Pvt Ltd, building reliable software with a strong focus on clean code and practical problem solving.",
+    "note": "Focused on backend development, secure APIs, and full stack ERP solutions."
+  },
+  "highlights": [
+    "I am a fresher with internship experience at Neuralbits Technology Pvt Ltd as a Python developer.",
+    "This portfolio is fully data-driven from JSON, so updating projects, skills, and experience stays simple.",
+    "The design uses a bold layout, strong typography, and structured content to keep attention on your strengths."
+  ],
+  "stats": [
+    { "value": "Python", "label": "Primary Language" },
+    { "value": "FastAPI", "label": "Backend" },
+    { "value": "React", "label": "Frontend" }
+  ],
+  "projects": [
+    {
+      "name": "ERP Inventory Management System",
+      "type": "Full Stack",
+      "year": "Internship",
+      "description": "A secure ERP inventory management full stack application developed during my internship at Presco Paperless IPD to support inventory workflows and business operations.",
+      "points": [
+        "Built a React-based frontend with Zustand for state management",
+        "Developed secure APIs using Python and FastAPI with MySQL integration",
+        "Implemented JWT-based authentication with RBAC for admin and user roles"
+      ],
+      "stack": [
+        "React",
+        "Zustand",
+        "Python",
+        "FastAPI",
+        "MySQL",
+        "JWT",
+        "RBAC",
+        "Git"
+      ]
+    },
+    {
+      "name": "Secure Share",
+      "type": "Backend",
+      "year": "Project",
+      "description": "A secure sharing platform designed to handle protected data exchange with role-aware access and authentication.",
+      "points": [
+        "Designed secure access flow for shared resources",
+        "Used JWT-based authentication for protected routes",
+        "Focused on safe and controlled data sharing"
+      ],
+      "stack": ["Python", "FastAPI", "JWT", "Security"]
+    },
+    {
+      "name": "Expense Tracker",
+      "type": "Full Stack",
+      "year": "Project",
+      "description": "A full stack expense tracking application built to record income and expenses with a clean user experience and structured data storage.",
+      "points": [
+        "Built with a React frontend for a responsive user interface",
+        "Developed backend APIs using Node and Express",
+        "Stored and managed expense data in MySQL with Git for version control"
+      ],
+      "stack": ["React", "Node", "Express", "MySQL", "Git"]
+    }
+  ],
+  "experience": [
+    {
+      "period": "Internship",
+      "company": "Neuralbits Technology Pvt Ltd",
+      "role": "Python Developer Intern",
+      "summary": "Worked on Python development tasks, supported feature implementation, and gained practical experience in writing clean, maintainable code within a team environment."
+    }
+  ],
+  "skills": [
+    "React",
+    "Python",
+    "FastAPI",
+    "MySQL",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Git",
+    "GitHub"
+  ],
+  "whyHireMe": [
+    "I write clean, maintainable code with a focus on practical delivery.",
+    "I have internship experience working on a secure ERP inventory management system.",
+    "I can contribute across frontend, backend, and database tasks when needed."
+  ],
+  "certifications": [
+    {
+      "title": "Python Development",
+      "issuer": "Neuralbits Technology Pvt Ltd",
+      "detail": "Hands-on internship experience focused on Python and backend development."
+    },
+    {
+      "title": "Full Stack Fundamentals",
+      "issuer": "Portfolio Project Work",
+      "detail": "Built projects using React, FastAPI, MySQL, Node, Express, and Git."
+    }
+  ],
+  "achievements": [
+    "Built and delivered a secure ERP inventory management system during internship.",
+    "Created a JSON-driven portfolio to keep content easy to update.",
+    "Worked with authentication, RBAC, and database-backed application flows."
+  ],
+  "resume": {
+    "label": "Download Resume",
+    "url": "#"
+  },
+  "socialLinks": {
+    "linkedin": "#",
+    "github": "https://github.com/shubhkhaire"
+  },
+  "education": [
+    {
+      "title": "Recent Graduate",
+      "subtitle": "Built a foundation in software design, problem solving, and full stack development fundamentals."
+    },
+    {
+      "title": "Modern Web Practices",
+      "subtitle": "Built around responsive UI, component-based architecture, and production-oriented delivery."
+    }
+  ],
+  "contact": {
+    "heading": "Let’s build something worth remembering.",
+    "message": "Open to full-time roles, freelance work, and product collaborations where design and engineering both matter.",
+    "email": "shubhakhaire523@gmail.com",
+    "github": "https://github.com/shubhkhaire"
+  }
+}
