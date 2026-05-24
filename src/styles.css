@@ -75,6 +75,10 @@ h2{margin:0 0 6px}
 .skill-cloud{display:flex;flex-wrap:wrap;gap:10px}
 .skill-cloud span{padding:8px 12px;border-radius:999px;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.03);color:var(--muted)}
 
+.skills-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:14px}
+.skills-card{padding:16px;border-radius:14px;background:var(--surface);border:1px solid rgba(255,255,255,0.03)}
+.skills-card h3{margin:0 0 12px;font-size:1rem}
+
 .education-list{display:grid;gap:12px}
 .education-list article{padding:12px;border-radius:10px;background:rgba(255,255,255,0.01);border:1px solid rgba(255,255,255,0.03)}
 
@@ -90,6 +94,7 @@ h2{margin:0 0 6px}
   .project-grid{grid-template-columns:repeat(2,1fr)}
   .timeline{grid-template-columns:1fr}
   .metric-grid{grid-template-columns:repeat(3,1fr)}
+  .skills-grid{grid-template-columns:1fr}
 }
 @media (max-width:660px){
   .project-grid{grid-template-columns:1fr}

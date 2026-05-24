@@ -175,9 +175,16 @@ function App() {
           <section className="section-card" id="skills">
             <p className="section-label">Skills</p>
             <h2>Stack aligned to your brief</h2>
-            <div className="skill-cloud">
-              {skills.map((skill) => (
-                <span key={skill}>{skill}</span>
+            <div className="skills-grid">
+              {Object.entries(skills).map(([category, items]) => (
+                <article key={category} className="skills-card">
+                  <h3>{category}</h3>
+                  <div className="skill-cloud">
+                    {items.map((item) => (
+                      <span key={item}>{item}</span>
+                    ))}
+                  </div>
+                </article>
               ))}
             </div>
           </section>

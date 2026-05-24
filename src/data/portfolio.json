@@ -71,17 +71,29 @@
       "summary": "Worked on Python development tasks, supported feature implementation, and gained practical experience in writing clean, maintainable code within a team environment."
     }
   ],
-  "skills": [
-    "React",
-    "Python",
-    "FastAPI",
-    "MySQL",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "Git",
-    "GitHub"
-  ],
+  "skills": {
+    "Languages": ["Python", "JavaScript (ES6+)"],
+    "Backend": ["FastAPI", "Node.js (Express.js)"],
+    "Frontend": ["React.js", "HTML", "CSS"],
+    "Databases": ["MySQL", "MongoDB"],
+    "Core": [
+      "REST APIs",
+      "JWT Authentication",
+      "RBAC",
+      "System Design",
+      "API Optimization"
+    ],
+    "Tools": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Swagger",
+      "Render",
+      "Vercel",
+      "Ngrok"
+    ],
+    "Applied AI": ["LLM API Integration", "AI-assisted Development"]
+  },
   "whyHireMe": [
     "I write clean, maintainable code with a focus on practical delivery.",
     "I have internship experience working on a secure ERP inventory management system.",
@@ -94,19 +106,19 @@
       "detail": "Hands-on internship experience focused on Python and backend development."
     },
     {
-      "title": "Full Stack Fundamentals",
+      "title": "Expense Tracker",
       "issuer": "Portfolio Project Work",
-      "detail": "Built projects using React, FastAPI, MySQL, Node, Express, and Git."
+      "detail": "Built an expense tracker using React, Node, Express, MySQL, and Git."
     }
   ],
   "achievements": [
     "Built and delivered a secure ERP inventory management system during internship.",
-    "Created a JSON-driven portfolio to keep content easy to update.",
+    "Created a secure backend for Secure Share with authentication and protected access.",
     "Worked with authentication, RBAC, and database-backed application flows."
   ],
   "resume": {
     "label": "Download Resume",
-    "url": "#"
+    "url": "https://drive.google.com/file/d/1gZvQV4NnlvoEIYZCyRYPOnA1ZEaR0-t3/view?usp=drive_link"
   },
   "socialLinks": {
     "linkedin": "https://linkedin.com/in/shubham-khaire-dev/",
@@ -114,12 +126,12 @@
   },
   "education": [
     {
-      "title": "Recent Post Graduate",
-      "subtitle": "Built a foundation in software design, problem solving, and full stack development fundamentals."
+      "title": "Master of Computer Applications - 8.23 SGPA",
+      "subtitle": "MET IOM Bhujbal Knowledge City, Nashik"
     },
     {
-      "title": "Modern Web Practices",
-      "subtitle": "Built around responsive UI, component-based architecture, and production-oriented delivery."
+      "title": "Bachelor of Science - 7.56 CGPA",
+      "subtitle": "KBH Arts, Science and Commerce College, Nimgaon Malegaon"
     }
   ],
   "contact": {
